@@ -20,6 +20,8 @@ Understanding customer satisfaction based on product reviews can provide valuabl
 - Analyze product categories to identify emerging market trends
 - Compare the sentiment between different brands for a competitive analysis
 
+# How to run LSTM:
+Go to https://nlp.stanford.edu/data/glove.6B.zip and download the zip file. Extract the zip then drag and drop glove.6B.100d.txt into the environment
 
 <!--
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/uwidcit/flaskmvc)
